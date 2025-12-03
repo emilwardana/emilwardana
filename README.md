@@ -9,8 +9,4 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilwardana&show_icons=true&locale=en&layout=compact" alt="emilwardana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emilwardana&show_icons=true&locale=en" alt="emilwardana" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilwardana&" alt="emilwardana" /></p>
