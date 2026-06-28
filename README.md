@@ -1,13 +1,13 @@
 # Hi 👋, I'm Emil Wardana
 
-· Jakarta, Indonesia
+** Jakarta, Indonesia
 
 ---
 
 <h3>Connect with me</h3>
 
-[![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/emilwardana)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/zamilwardana/)
+<a href="https://github.com/emilwardana"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zamilwardana/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
 ---
 
