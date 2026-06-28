@@ -34,12 +34,6 @@
 
 ---
 
-<h3>GitHub Trophies</h3>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=emilwardana&theme=onedark&no-frame=true&row=1&column=7)
-
----
-
 <h3>GitHub Stats</h3>
 
 <p>
