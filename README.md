@@ -3,6 +3,19 @@
 ** Jakarta, Indonesia
 
 ---
+<h3>GitHub Stats</h3>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=emilwardana&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Emil's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilwardana&layout=pie&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=emilwardana&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 <h3>Connect with me</h3>
 
@@ -28,14 +41,3 @@
 
 ---
 
-<h3>GitHub Stats</h3>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=emilwardana&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Emil's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilwardana&layout=pie&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=emilwardana&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
