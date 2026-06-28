@@ -1,6 +1,6 @@
-## Hi 👋, I'm Emil Wardana
+# Hi 👋, I'm Emil Wardana
 
-** · Jakarta, Indonesia
+· Jakarta, Indonesia
 
 ---
 
