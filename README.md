@@ -16,14 +16,6 @@ Jakarta, Indonesia
 </p>
 
 ---
-
-<h3>Connect with me</h3>
-
-<a href="https://github.com/emilwardana"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zamilwardana/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-
----
-
 <h3>Languages & Tools</h3>
 
 <p>
@@ -38,6 +30,12 @@ Jakarta, Indonesia
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
 </p>
+
+---
+<h3>Connect with me</h3>
+
+<a href="https://github.com/emilwardana"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zamilwardana/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
 ---
 
