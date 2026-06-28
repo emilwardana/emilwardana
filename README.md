@@ -1,6 +1,6 @@
 # Hi 👋, I'm Emil Wardana
 
-** Jakarta, Indonesia
+Jakarta, Indonesia
 
 ---
 <h3>GitHub Stats</h3>
