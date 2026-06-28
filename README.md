@@ -1,6 +1,6 @@
 # Hi 👋, I'm Emil Wardana
 
-· Jakarta, Indonesia
+- Jakarta, Indonesia -
 
 ---
 
@@ -34,14 +34,20 @@
 
 ---
 
+<h3>GitHub Trophies</h3>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=emilwardana&theme=onedark&no-frame=true&row=1&column=7)
+
+---
+
+<h3>GitHub Stats</h3>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilwardana&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emilwardana&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Emil's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilwardana&layout=pie&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emilwardana&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilwardana" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=emilwardana&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
